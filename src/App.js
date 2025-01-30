@@ -28,7 +28,6 @@ const App = () => {
     { src: 'https://storage.googleapis.com/a1aa/image/ClZOyZvTDnJDONBYTWKlq97cMh76lsgyTe4rCfP7taHl9OIUA.jpg', alt: 'Movie 14' },
     { src: 'https://storage.googleapis.com/a1aa/image/4El2WDpcVJahKBLEwQT8j3pAItVRnv0Eqhq32ziHNVvcvDCF.jpg', alt: 'Movie 15' },
   ];
-  console.log("hello wolrd");
   return (
     <div className="bg-black text-white">
       <Header/>
